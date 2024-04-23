@@ -5,4 +5,4 @@ Day 39 - Capstone Part 1 - Cheap Flight Finder
 
 Specific (and short) notes and titles written in main.py. 
   Unfinished practice (22/04/2024); update tomorrow.
-                      
+                      (23/04/2024); update tomorrow.
